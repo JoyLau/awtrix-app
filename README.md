@@ -4,7 +4,6 @@
 一款显示个人博客访问人数的 App
 
 ### 效果图
-<img src='http://image.joylau.cn/blog/Awtrix-preview-gif.gif' alt="preview"/>
-
+![gif](http://image.joylau.cn/blog/Awtrix-preview-png.png)
 ![app](http://image.joylau.cn/blog/Awtrix-web-app.png)
 ![config](http://image.joylau.cn/blog/Awtrix-web-config.png)
