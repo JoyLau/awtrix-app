@@ -1,0 +1,7 @@
+# Created by .ignore support plugin (hsz.mobi)
+*.iml
+!/my-app/BlogViews/Objects/
+!/my-app/BlogViews/AutoBackups/
+!/my-app/BlogViews/Files/
+!/my-app/BlogViews/BlogViews.b4j.meta
+!/my-app/BlogViews/target/BlogViews.xml
